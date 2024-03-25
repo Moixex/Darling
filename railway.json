@@ -1,7 +1,7 @@
 {
   "web": {
-    "image": "railwayapp/php:8.3",
+    "image": "railwayapp/php:8.2",
     "port": 8080,
-    "phpVersion": "8.3"
+    "phpVersion": "8.2"
   }
 }
