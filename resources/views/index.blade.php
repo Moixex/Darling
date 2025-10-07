@@ -55,7 +55,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 text-center">
-                        <h2 data-aos="fade-down">Feliz Cumpleaños <span>Primaverita</span></h2>
+                        <h2 data-aos="fade-down">Feliz Cumpleaños <span>Lunita</span></h2>
                         <p data-aos="fade-up">Mi amor, hoy celebramos el día en que el universo recibió el regalo más hermoso: tu presencia en este mundo. 
                             En este día especial, quiero recordarte lo increíble que eres y lo agradecido que estoy por tenerte en mi vida. 
                             Eres la luz que ilumina mis días, el sueño que nunca quiero despertar, y mi refugio en los momentos más difíciles.
