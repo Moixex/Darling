@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Feliz cumpleaños - Rena</title>
+    <title>Feliz cumpleaños - Nahi</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -158,7 +158,7 @@
 
                         <li class="nav-item col-3">
                             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-                                <h4><b>R</b>ena</h4>
+                                <h4><b>N</b>ahi</h4>
                             </a>
                         </li>
 
