@@ -71,15 +71,21 @@
         <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
             <div class="carousel-item active"
-                style="background-image: url(/assets/img/hero-carousel/Sky-A.jpeg)">
+                style="background-image: url(/assets/img/hero-carousel/Pics-1.jpg)">
             </div>
-            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/Sky-B.jpeg)">
+            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/Pics-2.jpg)">
             </div>
-            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/Sky-C.jpeg)">
+            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/Pics-3.jpg)">
             </div>
-            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/Sky-D.jpeg)">
+            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/Pics-4.jpg)">
             </div>
-
+            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/Pics-5.jpg)">
+            </div>
+            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/Pics-6.jpg)">
+            </div>
+            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/Pics-7.jpg)">
+            </div>
+            
             <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
             </a>
