@@ -99,10 +99,10 @@
 
       <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/fondo-principal.jpeg)">
       </div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-1)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-2)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-3)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-4)"></div>
+      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-1.jpg)"></div>
+      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-2.jpg)"></div>
+      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-3.jpg)"></div>
+      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-4.jpg)"></div>
 
       <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
         <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
