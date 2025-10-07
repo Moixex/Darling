@@ -33,7 +33,7 @@
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a href="" class="logo d-flex align-items-center">
-                <h1>LOGO<span>.</span></h1>
+                <h1>Nahi<span>.</span></h1>
             </a>
 
             <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
