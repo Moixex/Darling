@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Felicitar - Nombre</title>
+  <title>Felicitar - Nahi</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -39,7 +39,7 @@
       <a href="" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1>LOGO<span>.</span></h1>
+        <h1>Nahi<span>.</span></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -74,7 +74,7 @@
                 <label for="identificador" class="form-label label-txt">Identificador</label>
                 <input  required  type="text" name="identificador" class="form-control" >
                 <div  class="form-text">
-                    Un apodo o algo para que Bubu te identifique, puede ser una palabra, la escuela donde estudias o donde se conocieron
+                    Un apodo o algo para que Bubu te identifique, puede ser una palabra, o donde se conocieron
                 </div>
                 <label for="description" class="form-label label-txt">Felicitacion</label>
                 <textarea  maxlength="400" required name="description" class="form-control" rows="5"></textarea>
@@ -99,9 +99,10 @@
 
       <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/fondo-principal.jpeg)">
       </div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/fondo-principal.jpeg)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/fondo-principal.jpeg)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/fondo-principal.jpeg)"></div>
+      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-1)"></div>
+      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-2)"></div>
+      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-3)"></div>
+      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/Love-4)"></div>
 
       <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
         <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
