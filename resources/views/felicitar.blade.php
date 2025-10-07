@@ -69,17 +69,17 @@
                 <label for="name" class="form-label label-txt">Nombre</label>
                 <input  required type="text" name="name" class="form-control" >
                 <div  class="form-text">
-                    Escribe un nombre con el que Renx te pueda identificar
+                    Escribe un nombre con el que Bubu te pueda identificar
                 </div>
                 <label for="identificador" class="form-label label-txt">Identificador</label>
                 <input  required  type="text" name="identificador" class="form-control" >
                 <div  class="form-text">
-                    Un apodo o algo para que Renx te identifique, puede ser una palabra, la escuela donde estudias o donde se conocieron
+                    Un apodo o algo para que Bubu te identifique, puede ser una palabra, la escuela donde estudias o donde se conocieron
                 </div>
                 <label for="description" class="form-label label-txt">Felicitacion</label>
                 <textarea  maxlength="400" required name="description" class="form-control" rows="5"></textarea>
                 <div  class="form-text">
-                    Escribe un mensaje de felicitaciones para Renx. Max 400 caracteres
+                    Escribe un mensaje de felicitaciones para Bubu. Max 400 caracteres
                 </div>
                 <label for="imagen" class="form-label  label-txt">Foto</label>
                 <input type="file" name="imagen" class="form-control">
